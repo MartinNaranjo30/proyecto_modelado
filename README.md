@@ -64,4 +64,5 @@ El análisis no supervisado con KMeans (k=3) permitió segmentar exitosamente a 
 Equipo de Desarrollo: 
 
 Martin Corvalán
+
 Martin Naranjo
