@@ -10,7 +10,7 @@ Estructura del Proyecto
 
 El proyecto sigue una arquitectura modular y profesional, separando el código fuente, los modelos entrenados y los resultados analíticos:
 
-```text
+
 ├── README.md                 # Documentación principal del proyecto
 ├── data/                     # Carpeta para los datasets (original y limpio)
 │   ├── nba_10000_processed.csv
@@ -37,7 +37,7 @@ El proyecto sigue una arquitectura modular y profesional, separando el código f
     │   └── clusters_jugadores.png
     └── reports/
         └── informe_final.pdf # Justificación técnica y conclusiones
-```
+
 Tecnologías Utilizadas: 
 Lenguaje: Python 3.x
 Manipulación de Datos: Pandas, NumPy
