@@ -61,7 +61,7 @@ logramos aumentar significativamente el Recall de Playoffs al 81.13%, minimizand
 El análisis no supervisado con KMeans (k=3) permitió segmentar exitosamente a los jugadores en tres perfiles estadísticos distintos basados en su volumen de puntos y eficiencia global.
 
 
-Equipo de Desarrollo: 
+Integrantes: 
 
 Martin Corvalán
 
